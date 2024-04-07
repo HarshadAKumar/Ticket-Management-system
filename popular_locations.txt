@@ -1,0 +1,12 @@
+********** Popular Tourist Locations in India **********
+1. Taj Mahal, Agra - Distance from Bangalore: 2040 km
+2. Jaipur, Rajasthan - Distance from Bangalore: 2150 km
+3. Goa - Distance from Bangalore: 560 km
+4. Kerala Backwaters - Distance from Bangalore: 550 km
+5. Varanasi, Uttar Pradesh - Distance from Bangalore: 1750 km
+6. Ladakh, Jammu and Kashmir - Distance from Bangalore: 3650 km
+7. Mysore, Karnataka - Distance from Bangalore: 150 km
+8. Shimla, Himachal Pradesh - Distance from Bangalore: 2450 km
+9. Rann of Kutch, Gujarat - Distance from Bangalore: 1400 km
+10. Darjeeling, West Bengal - Distance from Bangalore: 2250 km
+*********************************************************
